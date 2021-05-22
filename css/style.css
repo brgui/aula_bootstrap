@@ -1,0 +1,27 @@
+
+
+.navbar-brand img{
+    border-radius: 2rem;
+}
+
+.navbar {
+    background-color: rgb(241, 131, 131);
+}
+
+.quem-somos{
+    background-color: #afafeb;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: lightblue;
+}
+
+.bg-footer{
+    background-color: rgb(36,36,36);
+    color: rgb(246,246,246);
+}
